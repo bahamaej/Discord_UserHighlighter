@@ -1,12 +1,11 @@
-// ==UserScript==
-// @name         UserHighlighter
-// @namespace    BDPlugins
-// @version      0.1
-// @description  Highlights specified user mentions in Discord channels.
-// @author       EasusJ
-// @updateURL    <YOUR_UPDATE_URL>
-// @downloadURL  <YOUR_DOWNLOAD_URL>
-// ==/UserScript==
+/**
+ * @name UserHighlighter
+ * @version 0.1
+ * @description Highlights specified user mentions in Discord channels.
+ * @author EasusJ
+ * @updateURL https://github.com/bahamaej/Discord_UserHighlighter.git
+ * @downloadURL https://github.com/bahamaej/Discord_UserHighlighter.git
+ */
 
 const { Plugin } = window.BdApi;
 
